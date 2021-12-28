@@ -1,0 +1,79 @@
+[
+    
+    {
+        "text": "What is the Hilltop?",
+        "children": [
+            {
+                "text": "The hilltop is a neighborhood in the center of San Francisco. It includes amazing restaurants, parks, and more. Currently, Discover Hilltop features the local university, but check back in the coming weeks for more buildings and facts throughout the neighborhood!"
+            }
+        ]
+    },
+    
+	{
+		"text": "What is a Residence Hall?",
+        "children": [
+            {
+                "text": "A Residence Hall is USF's version of a dorm! It is where the on-campus students live, and there is guranteed housing for all incoming first-year students. The residents halls focus on the community, so expect your RA to consistently reach out with fun initiative ideas!"
+            }
+        ]
+	},
+	{
+		"text": "Why so many acronyms?",
+        "children": [
+            {
+                "text": "To be honest, I'm not sure. USF, like most univeristy's, has grow acustomed to using nicknames to describe just about every part of campus. For instance, we have: LoMo, the Caf, the Undercaf, cardiac hill, UC, St. Iggy, The Lib, and more! You will learn the lingo once on campus :)"
+            }
+        ]
+	},
+	{
+		"text": "What's exactly is UC?",
+        "children": [
+            {
+                "text": "The University Center is the hub to student life. It houses all the campus orgs as well as the cafeteria and other hangour areas. Click on the UC image in the Campus Map to learn more!"
+            }
+        ]
+	},
+	{
+		"text": "What's a Don?",
+        "children": [
+            {
+                "text": "The Don was a historical Spanish way of addressing nobles, and the term has evolved to mean a distinguished gentleman. Until 1931, USF's mascot was the Grey Fog, but the city thought it could lead to bad publicity for SF. Thus, it was changed after the SF Foghorn (student newspaper) held a contest for name ideas, and the Don was selected."
+            }
+        ]
+	},
+	{
+		"text": "How's the food?",
+        "children": [
+            {
+                "text": "College food, no matter where it is from, is still college food. Thankfully, USF does offer a wide variety of fresh and healthful food supplied by Bon Appetit, and there are countless amazing and affordable restaurants throughout the city! Check back later for favorite restaurants to be added to the Hilltop Map."
+            }
+        ]
+	},
+	{
+		"text": "How is campus life?",
+        "children": [
+            {
+                "text": "It is a more quiet campus, but the surrounding hilltop area has much to offer!"
+            }
+        ]
+	},
+    {
+        "text": "How you can get to the hilltop",
+        "children": [
+            {
+                "text": "The hilltop is right in the geogrpahical center of the city, making it one of the most accessible places for the majority of people in SF. It also lies between two of the larges bus routes in SF--the 5 and the 38, making it easy to arrive by public transit. "
+            }
+        ]
+    },
+
+    {
+        "text": "How old is USF?",
+        "children": [
+            {
+                "text": "The University of San Francisco is over 100 years old! It was founded in 1855 in a small building on Market Street of downtown San Francisco. After the 1906 earthquake which destroyed the campus, it moved west next to Golden Gate Park, which remains its current location. "
+            }
+        ]
+    },
+
+    
+]
